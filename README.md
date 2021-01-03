@@ -1,6 +1,6 @@
 ![SeungWon's github stats](https://github-readme-stats.vercel.app/api?username=lsw6684&count_private=true&show_icons=true&theme=radical) 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lsw6684&layout=compact&theme=material-palenight" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lsw6684&layout=compact&theme=material-palenight" />
 </a>
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
 
