@@ -12,5 +12,4 @@
 <img alt="SeungWon Lee|Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />　
 <a href="https://www.facebook.com/profile.php?id=100007864716666">
 <img alt="SeungWon Lee|Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />　
-<a href="mailto:lsw6684@hanmail.net">
-<img alt="SeungWon Lee|mail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />　
+
