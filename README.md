@@ -1,8 +1,10 @@
-![SeungWon's github stats](https://github-readme-stats.vercel.app/api?username=lsw6684&count_private=true&show_icons=true&theme=radical) 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lsw6684&show_icons=true&include_all_commits=true&theme=material-palenight" alt="SeungWon Lee|github stats" />
+</a>
+
+<a>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lsw6684&layout=compact&theme=material-palenight" />
 </a>
-<!-- (https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Quick contact for message
 
@@ -13,3 +15,6 @@
 <a href="https://www.facebook.com/profile.php?id=100007864716666">
 <img alt="SeungWon Lee|Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />　
 
+
+
+<!-- (https://github.com/anuraghazra/github-readme-stats) -->
