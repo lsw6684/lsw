@@ -11,3 +11,8 @@
 <img alt="SeungWon Lee|Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />　
 
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
+
+## Certificates abt CS
+- **(In the process)** *~**Engineer Information Processing from MSIT**~*
+- **Industrial Engineer Information Processing from MSIT**
+- **Network Advisor 2 from ICQA**
