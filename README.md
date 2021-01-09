@@ -12,7 +12,7 @@
 
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
 
-## Certificates abt CS
+## Certificates about CS
 - **(In the process)** *~**Engineer Information Processing from MSIT**~*
 - **Industrial Engineer Information Processing from MSIT**
 - **Network Advisor 2 from ICQA**
