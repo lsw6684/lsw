@@ -9,8 +9,11 @@
 <img alt="SeungWon Lee|Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />　
 <a href="https://www.facebook.com/profile.php?id=100007864716666">
 <img alt="SeungWon Lee|Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />　
-
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
+
+## Majors
+- **(In the process)** *~**Bachelor of Science in Computer Science Engineering**~*
+- **Bachelor of Science in Information Communication Engineering**
 
 ## Certificates about CS
 - **(In the process)** *~**Engineer Information Processing from MSIT**~*
