@@ -16,6 +16,9 @@
 - **Bachelor of Science in Information Communication Engineering**
 
 ## Certificates about CS :computer:
+- **CAC(Computing Accreditation Commission) of ABEEK**
 - **(In the process)** *~**Engineer Information Processing from MSIT**~*
 - **Industrial Engineer Information Processing from MSIT**
 - **Network Advisor 2 from ICQA**
+
+
