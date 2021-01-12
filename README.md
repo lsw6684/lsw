@@ -3,7 +3,7 @@
 
 ## Quick contact for message :speech_balloon:
 
-**Click Me ! |**　
+**Click Me ! :computer_mouse:**　
 
 <a href="https://instagram.com/dev_lsw">
 <img alt="SeungWon Lee|Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />　
