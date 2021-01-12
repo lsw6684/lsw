@@ -12,7 +12,7 @@
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Bachelor Degrees :mortar_board:
-- **(In the process)** *~**Bachelor of Science in Computer Science Engineering**~*
+- **(In the process)** *~**Bachelor of Science in Computer Science and Engineering**~*
 - **Bachelor of Science in Information Communication Engineering**
 
 ## Certificates about CS :computer:
