@@ -11,7 +11,7 @@
 <img alt="SeungWon Lee|Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />　
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
 
-## Bachelor Degrees
+## Bachelor Degrees :mortar_board:
 - **(In the process)** *~**Bachelor of Science in Computer Science Engineering**~*
 - **Bachelor of Science in Information Communication Engineering**
 
