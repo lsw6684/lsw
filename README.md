@@ -1,9 +1,9 @@
 ![SeungWon's github stats](https://github-readme-stats.vercel.app/api?username=lsw6684&count_private=true&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsw6684&layout=compact&theme=radical)
 
-## Quick contact for message
+## Quick contact for message :speech_balloon:
 
-**Click Me :speech_balloon:**　
+**Click Me ! |**　
 
 <a href="https://instagram.com/dev_lsw">
 <img alt="SeungWon Lee|Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />　
