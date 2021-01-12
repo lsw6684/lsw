@@ -3,7 +3,7 @@
 
 ## Quick contact for message
 
-**Click Me　|**　
+**Click Me :speech_balloon:**　
 
 <a href="https://instagram.com/dev_lsw">
 <img alt="SeungWon Lee|Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />　
@@ -15,7 +15,7 @@
 - **(In the process)** *~**Bachelor of Science in Computer Science Engineering**~*
 - **Bachelor of Science in Information Communication Engineering**
 
-## Certificates about CS
+## Certificates about CS :computer:
 - **(In the process)** *~**Engineer Information Processing from MSIT**~*
 - **Industrial Engineer Information Processing from MSIT**
 - **Network Advisor 2 from ICQA**
