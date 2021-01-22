@@ -21,4 +21,6 @@
 - **Industrial Engineer Information Processing from MSIT**
 - **Network Advisor 2 from ICQA**
 
+## Activities
+- **NAVER DEVELOPER OPEN CLASS**
 
