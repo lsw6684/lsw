@@ -22,7 +22,6 @@
 - **Network Advisor 2 from ICQA**
 
 ## Activities
-- **Collaborator 
-
--- Add Translation Option** [Art of War legions formation sharing tool](https://aowformationshare.jonur.io/)
+- **Collaborator**
+> **- Add Translation Option** 
 - **NAVER DEVELOPER OPEN CLASS**
