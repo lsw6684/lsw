@@ -22,8 +22,8 @@
 - **Network Advisor 2 from ICQA**
 
 ## Activities
-- [**Collaborator/Contributor**](#collaboration-contribution)
+- [**Collaborator and Contributor**](#collaboration-and-contribution)
 - **NAVER DEVELOPER OPEN CLASS**
 
-## Collaboration/Contribution
+## Collaboration and Contribution
 Add Translation Option 
