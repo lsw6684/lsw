@@ -22,8 +22,8 @@
 - **Network Advisor 2 from ICQA**
 
 ## Activities
-- [**aaac**](#collaboration-and-contribution)
+- [**Collaboration and Contribution**](#collaboration-and-contribution)
 - **NAVER DEVELOPER OPEN CLASS**
 
-## aaac<img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+## Collaboration and Contribution
 - **Add Translation Option** - [Art of War legions formation sharing tool](https://aowformationshare.jonur.io/) 
