@@ -26,4 +26,4 @@
 - **NAVER DEVELOPER OPEN CLASS**
 
 ## Collaboration and Contribution
-Add Translation Option 
+- **Add Translation Option** - [Art of War legions formation sharing tool](https://aowformationshare.jonur.io/) 
