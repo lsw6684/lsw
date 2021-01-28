@@ -23,4 +23,5 @@
 
 ## Activities
 - **NAVER DEVELOPER OPEN CLASS**
+
 - **Collaborator** [Art of War legions formation sharing tool](https://aowformationshare.jonur.io/)
