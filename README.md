@@ -22,7 +22,7 @@
 - **Network Advisor 2 from ICQA**
 
 ## Activities
-- [**Collaboration and Contribution**](#asdf)
+- [asdf](#asdf)
 - **NAVER DEVELOPER OPEN CLASS**
 
 ## asdf
