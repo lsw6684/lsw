@@ -25,5 +25,5 @@
 - [**Collaborator and Contributor**](#collaboration-and-contribution)
 - **NAVER DEVELOPER OPEN CLASS**
 
-## Collaboration and Contribution <img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+## Collaboration and Contribution <img width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 - **Add Translation Option** - [Art of War legions formation sharing tool](https://aowformationshare.jonur.io/) 
