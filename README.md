@@ -24,9 +24,6 @@
 ## Activities
 - [**Collaborator and Contributor**](#collaboration-and-contribution)
 - **NAVER DEVELOPER OPEN CLASS**
-</br>
-</br>
-
 <img width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 
 ## Collaboration and Contribution
