@@ -22,7 +22,7 @@
 - **Network Advisor 2 from ICQA**
 
 ## Activities
-- [**Collaboration and Contribution**](#collaboration-and-contribution)
+- [**Collaborator and Contributor**](#collaboration-and-contribution)
 - **NAVER DEVELOPER OPEN CLASS**
 
 ## Collaboration and Contribution<img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
