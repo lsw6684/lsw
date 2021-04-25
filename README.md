@@ -17,7 +17,7 @@
 
 ## Certificates about CS :computer:
 - **CAC(Computing Accreditation Commission) of ABEEK**
-- **(In the process)** *~**Engineer Information Processing from HRDK**~*
+- **Engineer Information Processing from HRDK**
 - **Industrial Engineer Information Processing from HRDK**
 - **Network Advisor 2 from ICQA**
 
