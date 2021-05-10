@@ -24,6 +24,7 @@
 ## Activities
 - [**Collaborator and Contributor**](#collaboration-and-contribution)
 - **NAVER DEVELOPER OPEN CLASS**
+- **SAMSUNG Paranmanjang Project**
 
 ## Collaboration and Contribution<img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 - **Add Translation Option** - [Art of War legions formation sharing tool](https://aowformationshare.jonur.io/) 
