@@ -25,7 +25,7 @@
 - **Fintech Software Developer**
   
 ## Activities
-- **ㅁㅁㅁㅁ at Japan's LINE Bank on fintech**
+- **LBJP CBS Project at LINE Financial Plus**
 - **SAMSUNG SDS Algorithm SL**
 - **Hanium Contest Exhibit - Find Your Pet**
 - [**Collaborator and Contributor**](#collaboration-and-contribution)
