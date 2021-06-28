@@ -25,9 +25,11 @@
 - **Fintech Software Developer**
   
 ## Activities
-- **LBJP CBS Project at LINE Financial Plus**
+- **LINE Financial Plus**
+   - LBJP CBS Project
 - **SAMSUNG SDS Algorithm SL**
-- **Hanium Contest Exhibit - Find Your Pet**
+- **Hanium Contest Exhibit**
+   - Find Your Pet
 - [**Collaborator and Contributor**](#collaboration-and-contribution)
 - **NAVER DEVELOPER OPEN CLASS**
 - **SAMSUNG Paranmanjang Project**
