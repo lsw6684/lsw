@@ -22,7 +22,7 @@
 - **Network Advisor 2 from ICQA**
 
 ## Work Experience
-- **Application Architect**
+- **Application Architect** • ***Fintech SW - Core banking***
   
 ## Activities
 - **LINE Financial Plus**
