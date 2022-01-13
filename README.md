@@ -10,7 +10,9 @@
 <a href="https://www.facebook.com/profile.php?id=100007864716666">
 <img alt="SeungWon Lee|Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
-   
+
+※ ***If you don't indicate your exact identity and business, I won't reply.***
+
 ## Bachelor Degrees :mortar_board:
 - **Bachelor of Science in Computer Science and Engineering**
 - **Bachelor of Science in Information Communication Engineering**
