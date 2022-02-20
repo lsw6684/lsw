@@ -23,15 +23,15 @@
 - **Network Advisor 2 from ICQA**
 
 ## Work Experience
-**2022.01.17 ~**
-- **Back-End Developer - Java(Spring)/MSSQL/VB6/Nexacro**
+**2022.01.17 ~ NOW**
+- **Back-End Developer** - Java(Spring)/MSSQL/VB6/Nexacro
   - ERP, SCM
 
 <br />
 
 **2021.07.01 ~ 2022.01.14**
-- **Application Architect - Java(BXM based on Spring)/JavaScript/OracleDB** • *Fintech SW - Core Banking*
-  - Common service development - **Inquiring about employees' information**
+- **Application Architect** - Java(BXM based on Spring)/JavaScript/OracleDB • *Fintech SW - Core Banking*
+  - Common service development - Inquiring about employees' information
   - VPN/DUO/VDI Environment Trouble Shooting
   - WAS/Scripts/ID_DB Management
 
