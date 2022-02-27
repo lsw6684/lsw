@@ -29,7 +29,7 @@
 
 <br />
 
-**2021.07.01 ~ 2022.01.14**
+**2021.07.01 ~ 2022.01.15**
 - **Application Architect** - Java(BXM based on Spring)/JavaScript/OracleDB • *Fintech SW - Core Banking*
   - Common service development - Inquiring about employees' information
   - VPN/DUO/VDI Environment Trouble Shooting
