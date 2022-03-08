@@ -36,6 +36,8 @@
   - WAS/Scripts/ID_DB Management
 
 ## Activities
+- **Nexacro**
+   - nexacro platform 17™ Basic
 - **LINE Financial Plus**
    - LBJP CBS Project
 - **SAMSUNG SDS Algorithm SL**
