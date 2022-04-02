@@ -37,9 +37,11 @@
 
 ## Activities
 - **Nexacro**
-   - nexacro platform 17™ Basic
-   - nexacro platform 17™ Component Utilization
+   - nexacro platform 17™ Practical Application
+   - nexacro platform 17™ Operator
    - nexacro platform 17™ Component Mobile
+   - nexacro platform 17™ Component Utilization
+   - nexacro platform 17™ Basic
 - **LINE Financial Plus**
    - LBJP CBS Project
 - **SAMSUNG SDS Algorithm SL**
