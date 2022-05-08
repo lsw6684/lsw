@@ -36,6 +36,8 @@
   - WAS/Scripts/ID_DB Management
 
 ## Activities
+- **Microsoft Power Platform Hackathon**
+  - Pre-approval App for corporate card expenses
 - **Nexacro**
    - nexacro platform 17™ Practical Application
    - nexacro platform 17™ Operator
