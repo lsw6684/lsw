@@ -24,7 +24,7 @@
 
 ## Work Experience
 **2022.01.17 ~ NOW**
-- **Back-End Developer** - Java(Spring)/MSSQL/VB6/Nexacro 17.1/ASP.net
+- **Back-End Developer** - Java(Spring)/MSSQL/VB6/Nexacro 17.1
   - ERP/SCM Development and Operation
 
 <br />
