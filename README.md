@@ -24,13 +24,14 @@
 
 ## Work Experience
 **2022.01.17 ~ NOW**
-- **Back-End Developer** - Java(Spring)/MSSQL/VB6/Nexacro
-  - ERP, SCM
+- **Back-End Developer** - Java(Spring)/MSSQL/VB6/Nexacro 17.1/ASP.net
+  - ERP/SCM Development and Operation
 
 <br />
 
 **2021.07.01 ~ 2022.01.15**
-- **Application Architect** - Java(BXM based on Spring)/JavaScript/OracleDB • *Fintech SW - Core Banking*
+- **Application Architect** - Java(BXM based on Spring)/JavaScript/JUnit/OracleDB • *Fintech SW - Core Banking*
+  - Development of Financial Services Test Codes
   - Common service development - Inquiring about employees' information
   - VPN/DUO/VDI Environment Trouble Shooting
   - WAS/Scripts/ID_DB Management
