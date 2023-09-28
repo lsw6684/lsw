@@ -17,6 +17,7 @@
 - **Bachelor of Science in Information Communication Engineering**
 
 ## Certificates about CS :computer:
+- **Structured Query Language Developer from KData**
 - **CAC(Computing Accreditation Commission) of ABEEK**
 - **Engineer Information Processing from HRDK**
 - **Industrial Engineer Information Processing from HRDK**
